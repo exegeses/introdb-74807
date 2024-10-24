@@ -1,4 +1,4 @@
-<img src="extras/headerIMG.jpg">
+<img src="extras/header.webp">
 
 # Curso de Introducción a las Bases de datos | código 74807
 
