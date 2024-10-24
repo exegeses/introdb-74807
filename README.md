@@ -23,15 +23,15 @@
 ## Requisitos de software (recomendado por EdicaciónIT):
 
 > Servidor de MySQL:
-    
-    [win: Xampp](https://www.apachefriends.org/)  
-    [mac: MAMP](https://www.mamp.info/en/mac/)
+[win: Xampp](https://www.apachefriends.org/)  
+[mac: MAMP](https://www.mamp.info/en/mac/)
+
+## Alternativa (software oficial):
+[MySQL Community Server](https://downloads.mysql.com/archives/community/)
 
 > Administrador de Servidor de MySQL: 
-
-    [MySQL Workbench](https://downloads.mysql.com/archives/workbench/)
+[MySQL Workbench](https://downloads.mysql.com/archives/workbench/)
 
 ----
 ## Manual oficial de MySQL:
-
 [Manual oficial](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
