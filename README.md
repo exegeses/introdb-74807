@@ -20,13 +20,13 @@
 > Una base de datos es un “almacén” que nos permite guardar grandes cantidades de información de forma organizada para que luego podamos encontrar y utilizar fácilmente.  
 
 ----
-## Requisitos de software (recomendado por EdicaciónIT):
+## Requisitos de software (recomendado por EducaciónIT):
 
 > Servidor de MySQL:  
 [win: XAMPP](https://www.apachefriends.org/)  
 [mac: MAMP](https://www.mamp.info/en/mac/)  
 
-## Alternativa (software oficial):  
+#### Alternativa (software oficial):  
 [MySQL Community Server](https://downloads.mysql.com/archives/community/)
 
 > Administrador de Servidor de MySQL:   
